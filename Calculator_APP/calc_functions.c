@@ -2,7 +2,6 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include <math.h>
-#include <string.h>
 #include "calc_functions.h"
 
 
